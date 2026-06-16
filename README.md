@@ -16,7 +16,12 @@
 
 ## 👩‍💻 About Me
 
-> Cloud Security & DevSecOps Engineer with **5+ years** embedding security across the SDLC on AWS and Azure. Currently completing an **MS in Cyber Security** (University of Central Missouri, May 2026). I specialize in Shift-Left security automation, CSPM, Kubernetes hardening, and building Zero Trust architectures that hold up under audit.
+> Senior DevOps/Cloud Engineer with 8+ years of hands-on experience building and operating production-grade infrastruc-
+ture on AWS and Azure. AWS Certified Solutions Architect with deep expertise in Kubernetes (EKS, AKS, OpenShift),
+Terraform IaC, GitOps with ArgoCD, and CI/CD automation at scale. M.S. in Cyber Security (2026) adds a strong De-
+vSecOps foundation — including IAM governance, SOC 2/PCI-DSS compliance, and secrets management with HashiCorp
+Vault. Track record of reducing deployment times by 40%, cutting cloud costs by 20%+, and delivering 99.99% uptime
+architectures.
 
 - 🔐 Reduced critical CVE MTTR from **14 days → under 4 days** using Prisma Cloud + SonarQube
 - 🛡️ Achieved **PCI-DSS, SOC 2, and NIST 800-53** compliance via compliance-as-code automation
@@ -114,7 +119,23 @@
 </details>
 
 <details>
-<summary><b>🖥️ System Engineer — Starlite Infotech</b> &nbsp;|&nbsp; Jun 2013 – Mar 2017</summary>
+<summary><b>🖥️ Associate Devops Engineer — Starlite Infotech</b> &nbsp;|&nbsp; Oct 2014 – Mar 2017</summary>
+
+<br/>
+
+- eployed and maintained Kubernetes clusters on AKS and EKS, supporting containerized workloads across development
+and staging environments.
+- Built and managed Jenkins CI/CD pipelines to automate build, test, and deployment workflows, reducing manual release
+effort across teams.
+- Created and maintained Dockerfiles and Docker Compose configurations to standardize containerized development envi-
+ronments.
+- Provisioned and managed AWS resources (EC2, S3, Lambda, VPC) and Azure services (App Services, VMs, Blob
+Storage), improving environment consistency and reducing provisioning time.
+- Implemented monitoring and alerting using Datadog, Splunk, and Azure Monitor, enabling proactive detection of infras-
+tructure issues and reducing mean time to resolution.
+**40%**
+<details>
+<summary><b>🖥️ System Engineer — Starlite Infotech</b> &nbsp;|&nbsp; Jun 2013 – Sep 2014</summary>
 
 <br/>
 
@@ -178,10 +199,10 @@
 
 | | |
 |---|---|
-| 🎓 **MS Cyber Security** | University of Central Missouri, USA — *Expected May 2026* |
-| 🎓 **B.Tech Electronics & Communication** | JNTU, India — May 2013 |
+| 🎓 **MS Cyber Security** | University of Central Missouri, USA — Jan 2024 - May 2026* |
+| 🎓 **B.Tech Electronics & Communication** | JNTU, India — July 2009 - May 2013 |
 | ✅ **AWS Solutions Architect Associate** | SAA-C03 |
-| 🔄 **AWS Security Specialty** | In progress — Target Q3 2026 |
+| 🔄 **AWS Security Specialty** | — Target Q3 2026 |
 | 🔄 **CompTIA Security+** | In progress |
 
 ---
