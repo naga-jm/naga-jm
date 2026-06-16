@@ -139,7 +139,12 @@ tructure issues and reducing mean time to resolution.
 
 <br/>
 
-- Developed enterprise applications in C#, ASP.NET MVC, and .NET Core with secure authentication; built RESTful APIs improving user adoption by **40%**
+- Administered Linux and Windows servers, managing user accounts, access controls, and system configurations for an
+enterprise environment.
+- Monitored system health, disk usage, and network performance, resolving incidents to maintain operational uptime.
+- Collaborated with development teams on deployment processes and application stability, gaining early exposure to
+DevOps practices
+**40%**
 
 </details>
 
