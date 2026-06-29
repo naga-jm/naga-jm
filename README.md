@@ -105,7 +105,8 @@ A fully functional live web application that fetches and displays real-time rele
 
 ## 📜 Certifications & Activities
 
-- 🏅 **Microsoft SC-900** — Security, Compliance & Identity Fundamentals
+- 🏅 **Microsoft SC-300** — Identity and Access Administrator Associate<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/a72c540c-864d-42d8-a37f-c0b4f05ac1eb" />
+
 - 🐧 **Linux Foundation** — Cybersecurity Essentials (LFC108)
 - 🤖 **Google** — 5-Day AI Agents Intensive (Vibe Coding, Cloud Deploy, AI Governance)
 - 🏦 **Goldman Sachs Forage** — Risk & Credit Analysis Simulation
